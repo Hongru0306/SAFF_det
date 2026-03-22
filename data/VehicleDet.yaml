@@ -1,0 +1,16 @@
+# MM dataset
+## image是IR，images是RGB
+
+path: ./dataset/VheicleDet # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+# demo: images/demo # demo images (optional)
+
+# Classes
+names:
+  0: feright_car
+  1: car
+  2: trunk
+  3: bus
+  4: van
