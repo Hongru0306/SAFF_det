@@ -16,7 +16,7 @@ This project is based on the [Ultralytics](https://github.com/ultralytics/ultral
 ```
 SAFF/
 ├── data/               # Dataset config files (.yaml)
-├── multimodal_models/  # Model architecture configs
+├── configs/  # Model architecture configs
 ├── weights/            # Pretrained weights and training checkpoints
 │   ├── saff-n/
 │   └── saff-m/
