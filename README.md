@@ -1,4 +1,6 @@
-# SAFF: A Spatially-Aware Fusion Framework for Effective and Efficient Aerial Object Detection
+# SAFF: A Spatially-Aware Fusion Framework for Effective and Efficient Aerial Object Detection 
+
+Paper Link: [SAFF](https://ieeexplore.ieee.org/document/11436060)
 
 This repository contains the official implementation of **SAFF**, a multimodal (RGB + IR) aerial object detection framework built on top of [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics).
 
@@ -80,11 +82,12 @@ Pretrained weights and training logs for two model scales are provided in `./wei
 @ARTICLE{11436060,
   author={Xiao, Hongru and Zhuang, Jiankun and Yang, Bin and Hu, Jinming and Zhu, Junze and Lian, Zhen and Zhao, Sijie and Zhou, Yanmin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={SAFF: A Spatially-Aware Fusion Framework for Effective and Efficient Aerial Object Detection}, 
+  title={SAFF: A Spatially Aware Fusion Framework for Effective and Efficient Aerial Object Detection}, 
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
-  keywords={Accuracy;Semantics;Object detection;Feature extraction;Computational efficiency;Location awareness;Detectors;Computational modeling;Costs;Lighting;Aerial object detection;Multimodal fusion;Infrared-RGB Detection;Deep learning},
+  pages={1-13},
+  keywords={Accuracy;Semantics;Object detection;Feature extraction;Computational efficiency;Location awareness;Detectors;Computational modeling;Costs;Lighting;Aerial object detection;deep learning;infrared (IR)-RGB detection;multimodal fusion},
   doi={10.1109/TGRS.2026.3674467}}
+
 ```
